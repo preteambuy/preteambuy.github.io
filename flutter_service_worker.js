@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "582315b8c4284a37cd740bd871cea989",
-"index.html": "694b275a3b5f891cbf7a7f0f1a0354e3",
-"/": "694b275a3b5f891cbf7a7f0f1a0354e3",
+"index.html": "f2a27e5644e2c274295c20c43d4dd7af",
+"/": "f2a27e5644e2c274295c20c43d4dd7af",
 "main.dart.js": "c0d40ad1c22282436555ca5384898f85",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -149,7 +149,7 @@ const RESOURCES = {
 "assets/assets/images/unlike.svg": "a913d994b124ac5b4ffe3ea2c1575cee",
 "assets/assets/images/heart.svg": "c9ed5ebea0a1dd94dbe9a46443e9ab9e",
 "assets/assets/language/en-IN.json": "c393b62c206cbe88d79feca2780f9244",
-"assets/assets/cfg/app_settings_in.json": "b24caad1fa74bf783b1d8e6985afda96",
+"assets/assets/cfg/app_settings_in.json": "86b26af67919cbca008627a4478fe0d2",
 "assets/assets/icon/logo.gif": "9f3e8d3707c9ead7af1039b2de29aa6e",
 "assets/assets/icon/logo_bg.jpg": "bd375ad93806f379e3307a1cb6a6053f",
 "assets/assets/fonts/Manrope/Manrope-Medium.ttf": "6196e0dab83345b15290ee22620358c1",

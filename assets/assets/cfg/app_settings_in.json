@@ -1,5 +1,5 @@
 {
-  "socialapp_api_url": "http://192.168.1.167:8080/graphql",
+  "socialapp_api_url": "https://api.juumu.in/graphql",
   "ph_country_code": "+91",
   "ph_length" : 10,
   "default_locale" : "IN",
