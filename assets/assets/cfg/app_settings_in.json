@@ -1,0 +1,20 @@
+{
+  "socialapp_api_url": "http://192.168.1.167:8080/graphql",
+  "ph_country_code": "+91",
+  "ph_length" : 10,
+  "default_locale" : "IN",
+  "socialapp_faq_url": "https://juumu.com/faq.html",
+  "socialapp_policy_url": "https://juumu.com/faq.html#refunds",
+  "socialapp_terms_url": "https://juumu.com/terms.html",
+  "socialapp_privacy_url": "https://juumu.com/privacy.html",
+  "razorpay_key_id": "rzp_live_mExUQjaIOuJpTJ",
+  "razorpay_key_id_test": "rzp_test_aZqAXaZtaKVsO2",
+  "agora_app_id" : "1b18327b1b084c1d88112e6725faf78a",
+  "agora_messaging_id" : "cfb4ace0fd1f4a83ad381ed0ca8faeff",
+  "deeplinking_uri_prefix": "https://juumu.page.link",
+  "deeplinking_link_host": "https://juumu.com",
+  "deeplinking_ios_bundle_id": "com.juumu",
+  "app_store_id" : "1562808509",
+  "deeplinking_ios_android_id" : "com.juumu",
+  "currency" : "₹"
+}

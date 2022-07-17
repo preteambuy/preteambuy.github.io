@@ -1,0 +1,895 @@
+{
+    "app" : {
+        "title": "Juumu",
+        "share" : {
+            "unsecured" : "If you login and share, you earn points each time an account is created with your link.",
+            "secured" : "You earn points each time an account is created with your link.",
+            "info1" : "Invite friends.{}Get rewarded.",
+            "info1_alt" : "Invite Your Friends{}To get 10% discount",
+            "info2" : "For every friend you successfully refer, you'll get bonus points.",
+            "info2_alt" : "Invite more friends to get even more rewards",
+            "shared_title": "You're invited to shop with me at Juumu!",
+            "shared_title_line1": "Register now to get 10% off.",
+            "invite_now" : "Invite Now"
+        },
+        "not_supported" : "Please download the app to enjoy the full features."
+    },
+    "storyboard" : {
+        "screen1" : {
+            "title" : "Live Shopping",
+            "body" : "Experience Live in-store shopping by following your favorite content creators."
+        },
+        "screen2" : {
+            "title" : "Buy As a Group",
+            "body" : "Buy and Share with friends to unlock best prices."
+        },
+        "screen3" : {
+            "title" : "Video Roll",
+            "body" : "Watch endless stream of products you like."
+        },
+        "screen4" : {
+            "title" : "Earn Points",
+            "body" : "Earn rewards by sharing with your social circle."
+        },
+        "skip": "Skip",
+        "next": "Next",
+        "done": "Done"
+    },
+    "network_error" : {
+        "generic" : "Error Processing",
+        "timeout" : "Looks like server is busy at the moment. Please try again later.",
+        "connect_refused" : "Something doesn't look right.",
+        "no_network_connectivity": "Couldn't connect to the internet",
+        "no_network_connectivity_retry": "Refresh"
+    },
+    "checkin" : {
+        "title" : "Check In",
+        "body_no_points": "Thanks for checking in",
+        "ok_button": "Ok",
+        "error": "Something went wrong! Please try again",
+        "success" : "You earned {} points for daily login."
+    },
+    "button" : {
+        "ok" : "Ok",
+        "cancel" : "Cancel",
+        "claim" : "Claim Now"
+    },
+    "logout" : {
+        "confirmation" : "Sure to logout?",
+        "dialog_button" : "Logout"
+    },
+    "login" : {
+        "password": "Password",
+        "ph": "Mobile Number",
+        "title" : "Sign In",
+        "welcome_back": "Welcome Back",
+        "caption1" : "Sign In now to begin an amazing journey"
+    },
+    "bottom_navigator_home" : "Shop",
+    "bottom_navigator_flash_sale": "Sale",
+    "bottom_navigator_flash_sale_title": "Flash Sale",
+    "bottom_navigator_checkin": "Check In",
+    "bottom_navigator_raffles": "Raffles",
+    "bottom_navigator_account": "Account",
+    "bottom_navigator_feeds": "Roll",
+    "bottom_navigator_live" : "Live",
+    "bottom_navigator_search": "Search",
+    "bottom_navigator_explore": "Community",
+    "create_an_account": "Create an account",
+    "account_ph": "Mobile Number",
+    "activation_code": "Activation Code",
+    "account_verify": "Verify",
+    "account_set_password": "Set Password",
+    "account_new_password": "Password",
+    "account_new_password_confirm": "Confirm Password",
+    "account_register_next": "Next",
+    "account_register_prev": "Cancel",
+    "missing_ph_number": "Missing Mobile Number",
+    "invalid_ph_number": "Invalid Mobile Number",
+    "missing_validation_code": "Missing OTP",
+    "invalid_validation_code": "Invalid OTP",
+    "missing_password": "Missing Password",
+    "invalid_password_length": "Password should be of minimum 6 characters",
+    "invalid_password" : "Password should have numbers and alphabets",
+    "password_no_match" : "Password's doesn't match",
+    "lets_go" : "Lets go",
+    "register" : {
+        "didnt_receive_verification_code" : "Resend OTP",
+        "next" : "Next",
+        "prev" : "Cancel",
+        "password": "Password",
+        "caption1" : "Welcome! Sign Up",
+        "caption2" :  "Please provide your contact number to send OTP to Sign Up",
+        "get_otp" : "Verify",
+        "enter_otp_title" : "Enter OTP",
+        "enter_otp_caption1" : "Enter OTP and Verify your account",
+        "enter_otp_caption2" : "OTP",
+        "set_pwd_caption" : "Set password to secure your account"
+    },
+    "account" : {
+        "register": "Sign Up",
+        "register_alias": "Don’t have an account?",
+        "faq": "FAQ",
+        "about": "About",
+        "terms": "Terms & Conditions",
+        "privacy": "Privacy Policy",
+        "refund_policy": "Returns, Refunds, Exchanges",
+        "how_it_works_video": "How Juumu Works?",
+        "preferences": "My Activity",
+        "image_updated" : "Profile image updated.",
+        "photos" : "My Media",
+        "influencers" : "Content Creator",
+        "categories" : "Categories",
+        "set_your_interest" : "Set your interest",
+        "whatsnew" : "What's New?",
+        "profile" : {
+            "title": "Profile",
+            "edit_title": "Edit Profile",
+            "field" : {
+                "name" : "Name",
+                "gender" : "Gender",
+                "ph" : "Mobile Number",
+                "screen_name" : "Screen Name",
+                "screen_name_missing" : "You need to set your screen name to start your live show.",
+                "screen_name_fixed" : "Screen name cannot be changed once set.{}Only Letters, Numbers and Underscore are allowed.",
+                "btn" : {
+                    "save" : "Save",
+                    "save_continue" : "Save and continue",
+                    "edit" : "Edit"
+                },
+                "bio" : "Few lines about yourself",
+                "email": "Email address"
+            },
+            "error" : {
+                "missing_name" : "Enter your name",
+                "missing_screen_name" : "Enter your screen name",
+                "missing_email" : "Enter your email address",
+                "invalid_email": "Invalid email address"
+            },
+            "msg" : {
+                "success" : "Profile Updated"
+            },
+            "male": "Male",
+            "female" : "Female"
+        },
+        "forgotpwd": {
+            "header": {
+                "title": "Reset Password"
+            },
+            "sec1": {
+                "title": "Mobile Number"
+            },
+            "sec2": {
+                "title": "Verify"
+            },
+            "sec3": {
+                "title": "Change Password"
+            },
+            "caption1" : "Send code to mobile",
+            "caption2" : "Change password to secure your account"
+        },
+        "languages": {
+            "header": {
+                "title": "Language Preference",
+                "title_short" : "Language"
+            }
+        },
+        "settings": "Settings",
+        "support": "Support",
+        "reward" : "Rewards",
+        "coupons" : "Coupons & Points",
+        "title": "Account",
+        "app_permission" : "App Permissions",
+        "rate_app" : "Rate App",
+        "invite_friends" : "Invite Friends",
+        "invite_friends_and_earn" : "Invite Friends (Earn)"
+    },
+    "payment" : {
+        "title" : "Payments",
+        "fields" : {
+            "card_number" : "Card Number",
+            "expiration_date" : "Expiration Date",
+            "expiration_date_hint" : "MM/YY",
+            "cvv" : "CVV",
+            "add_button" : "Add Card",
+            "type" : "Type",
+            "delete" : "Delete",
+            "postal_code": "Postal Code"
+        },
+        "no_payment_found_line1" : "No payment found",
+        "no_payment_found_line2" : "Add a payment for faster checkout",
+        "no_payment_found_add_button" : "Add a new Payment",
+        "delete_confirmation" : "Sure to delete the payment?",
+        "delete_confirmation_btn_title" : "Delete",
+        "delete_success" : "Payment deleted",
+        "add_success" : "Payment added successfully",
+        "add_payment" : "Add Payment"
+    },
+    "address" : {
+        "add_success" : "Address added successfully",
+        "edit_success" : "Address updated successfully",
+        "title": "Shipping Address",
+        "navBarTitle": "Shipping",
+        "addPageNavBarTitle": "Enter Address",
+        "no_address_found_line1": "No address found",
+        "no_address_found_line2": "Add an address for faster checkout",
+        "add_address_button_text": "Add a new address",
+        "no_change" : "No changes detected, do you want to quit?",
+        "add": {
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "addressLine1": "Address Line 1",
+            "addressLine2": "Address Line 2",
+            "city": "City",
+            "state": "State",
+            "postCode": "Post Code",
+            "phoneNumber": "Mobile Number (Optional)",
+            "save": "Save and Continue",
+            "delete_success": "Address deleted."
+        },
+        "missing" : {
+            "firstName" : "Enter your first Name",
+            "lastName" : "Enter your last Name",
+            "addr_line1" : "Enter address line 1",
+            "city": "Enter a city",
+            "state" : "Select a state",
+            "post_code" : "Enter a post code"
+        },
+        "header1" : "Enter a new address",
+        "header2" : "*We do not ship to PO Boxes"
+    },
+    "languages": {
+        "en" : "English",
+        "hi" : "हिन्दी (Hindi)",
+        "ma" : "മലയാളം (Malayalam)",
+        "ta" : "தமிழ் (Tamil)",
+        "te" : "తెలుగు (Telugu)",
+        "mr" : "मराठी (Marathi)",
+        "bn" : "বাংলা (Bengali)",
+        "gu" : "ગુજરાતી (Gujarati)",
+        "kn" : "ಕನ್ನಡ (Kannada)",
+        "title" : "Change Language?",
+        "change_dialog_confirmation" : "Sure you want to change the language?"
+    },
+    "retry" : "Retry in {} seconds",
+    "anonymous" : "Anonymous",
+    "points" : {
+        "title" : "Points",
+        "profile_page_msg" : "Earn points by completing your profile",
+        "balance": "Balance: ",
+        "tab1_title": "Points",
+        "tab2_title": "Information",
+        "tab3_title" : "Offers",
+        "no_data": "You haven't earned any points yet.",
+        "offer_no_data" : "You haven't earned any offers yet.",
+        "valid_till" : "Valid for {}d",
+        "valid_till_today" : "Valid for Today",
+        "order_from" : "For an order above {}",
+        "order_till" : "Upto a max discount of {}",
+        "used_on" : "Redeemed on {}",
+        "redeem_title" : "Redeemed",
+        "discount_applied" : "Discount Applied",
+        "min_order_value_error" : "Order value should be atleast {} to apply this offer.",
+        "discounts_coupons" : "Discounts & Coupons"
+    },
+    "sb_listing_page": {
+        "sold" : "sold"
+    },
+    "listing" : {
+        "no_data" : "No data found"
+    },
+    "search" : {
+        "hint" : "Search your favorite product",
+        "title_2" : "Search products",
+        "close_btn" : "Cancel",
+        "search_btn" : "Search"
+    },
+    "product_info" : {
+        "title" : "Product Detail",
+        "description": "Item description",
+        "whats_group_buy" : "How GroupBuy works?"
+    },
+    "notifications": {
+        "title" : "Notifications",
+        "no_data": "You don't have any notifications yet.",
+        "delete_success" : "Notification deleted."
+    },
+    "product_listing" : {
+        "out_of_stock" : "Out of Stock",
+        "off" : "OFF"
+    },
+    "product_detail" : {
+        "authentic" : "100% Authentic",
+        "easy_exchange": "Easy Exchange",
+        "title_generic": "Details",
+        "user_media" : "User Images & Videos ({})",
+        "qa" : {
+            "title" : "Questions & Answers {}",
+            "my_title" : "My Q&A",
+            "ask" : "Ask about the product",
+            "reply" : "Answer",
+            "ask" : "Ask",
+            "view_product" : "View",
+            "qa_post_success_first" : "We have notified the brand to respond to your question.",
+            "qa_post_success" : "We have notified the brand and other users who have bought this product to respond to your question.",
+            "qa_answer" : "Thanks for responding.",
+            "no_data_line1" : "No Question & Answers found",
+            "no_data_line2" : "Be the first one to post your question",
+            "show_more" : "Show more",
+            "show_less" : "Show less"
+        },
+        "variant" : {
+            "select" : "Select"
+        },
+        "review" : {
+            "add_button" : "Add Review",
+            "add_review_page" : {
+                "title" : "Add Review"
+            },
+            "label" : "Your review here",
+            "validation_error" : {
+                "missing_comment" : "Review missing"
+            },
+            "add_success" : "Thanks for your comments",
+            "listing_page" : {
+                "title" : "Customer Reviews",
+                "view_all" : "View All",
+                "total_review" : "{} review{}",
+                "total_review_count" : " ({})",
+                "overall" : "OVERALL"
+            },
+            "delete_success" : "Review deleted."
+        },
+        "checkout_btn" : {
+            "single_buy" : "{}Buy Now",
+            "group_buy_new" : "{} New Group",
+            "group_buy_join" : "{}Join Group"
+        },
+        "share" : {
+            "unsecured" : "If you login and share, you earn points each time somebody buys the product using your link.",
+            "secured" : "You earn points each time somebody buys the product using your link.",
+            "line1" : "Checkout the product - "
+        },
+        "more_info" : {
+            "description" : "Description",
+            "variant" : "Options",
+            "delivery" : "Shipping",
+            "policy": "7 Day Exchange",
+            "policy_title": "Refund & Exchange Policy",
+            "more_from_brand" : "More from {}"
+        },
+        "not_available": "Product is no longer available",
+        "made_in": "Made in {}"
+    },
+    "myreviews" : {
+        "title" : "My Reviews",
+        "no_reviews_line1" : "No reviews found",
+        "no_reviews_line2" : "You can earn points by posting review"
+    },
+    "confirmation_alert_dialog" : {
+        "confirm" : "Confirm",
+        "delete_review_confirm" : "Sure to delete this review?",
+        "delete_address_confirm" : "Sure to delete this address?",
+        "delete_notification_confirm" : "Sure to delete this notification?",
+        "delete_ok_button_txt" : "Delete",
+        "delete_cancel_button_txt" : "Cancel",
+        "ok" : "Ok",
+        "cancel" : "Cancel",
+        "delete_media" : "Sure to delete this media?"
+    },
+    "checkout" : {
+        "title" : "Checkout",
+        "eligible_free_shipping" : "Eligible for Free Shipping",
+        "further_orders_free" : "Your remaining orders for the day with {} will be shipped for FREE!!!",
+        "shipping_addr_title" : "Ship to",
+        "payment_title" : "Payment",
+        "choose" : "Add",
+        "choose_payment_title" : "Choose a Payment",
+        "choose_addr_title" : "Choose an Address",
+        "choose_addr_title_1" : "Choose a Shipping Address",
+        "select" : "Select",
+        "change" : "Change",
+        "subtotal_title" : "Item Total",
+        "shipping": "Shipping",
+        "shipping_standard" : "2 - 5 days",
+        "shipping_express" : "1 - 3 days",
+        "shipping_free": "Free",
+        "points": "Use Points",
+        "apply_points" : "Apply",
+        "remove_points" : "Remove",
+        "total_without_tax" : "Total",
+        "sales_tax_title" : "Sales Tax",
+        "total_title" : "Order Total",
+        "includes_gst": "Includes GST",
+        "qty_title" : "Qty",
+        "qty_full_title" : "Quantity",
+        "unit_price_title": "Unit Price",
+        "placeorder" : "PLACE ORDER",
+        "group_buy_msg": "Thanks for the group buy. Atleast 1 member needs to buy with you in a day to get this discounted price.",
+        "group_buy_msg_generic": "Invite more members to join your group to bring down the price of the product.",
+        "group_buy_expiration" : "Hurry, Group Buying ends soon.",
+        "out_of_stock" : "Out of stock",
+        "group_order_success" : "Thanks for your order. Your order will be processed when your friends join you in the group buy. Invite friends to get the group buy pricing",
+        "group_pending" : "Waiting for first member to join the group. Invite more members by clicking on the share icon",
+        "group_pending_msg_2" : "Waiting for first member to join the group.",
+        "pending_member_count" : "{} items have been bought in your group.",
+        "share_with_friends" : "Share",
+        "confirmation" : "Your final price will be {} or less based on number of people join your/the group",
+        "condition": {
+            "title": "Conditions:",
+            "term1": "• Your payment will be processed immediately.",
+            "term2": "• Your payment will be refunded in full if not enough members join your group.",
+            "term3": "If more members join your group and the price of the product goes down, you will be charged the lowest price based on the number of members in the group and the remaining amount you paid will be refunded."
+        },
+        "shipping_payment_title" : "Shipping and Payment",
+        "shipping_title" : "Shipping Address",
+        "payment_options_title" : "Payment Options",
+        "order_summary": "Order Summary",
+        "choose_addr" : "Use This Address",
+        "add_new_addr" : "Add New Address",
+        "choose_payment" : "Use This Payment",
+        "add_new_payment" : "Add New Payment",
+        "member_invite_msg": "You have been invited to join the group {}.",
+        "new_team": "Forming New Group",
+        "join_team": "Joining Group",
+        "view_order_status": "View Order Status",
+        "view_order": "View Order",
+        "order_no": "Order# ",
+        "order_placed" : "Order Confirmation",
+        "order_success" : "Your Order Placed Successfully",
+        "just_bought" : "Hey, I just bought this product. Buy this product with me to reduce the product price further."
+    },
+    "product_groups" : {
+        "title" : "Existing group",
+        "join_title" : "Join",
+        "your_group": "You",
+        "group_sold" : "Items sold in group: {}",
+        "group_expires" : "Group Expires: ",
+        "group_expired" : "The shared link has already expired."
+    },
+    "orders" : {
+        "title" : "Orders",
+        "no_data": "You haven't placed any orders yet.",
+        "qty" : "Qty: ",
+        "total" : "Total: "
+    },
+    "orders_detail" : {
+        "title" : "Order Info",
+        "order_id_title" : "Order Id: ",
+        "referral_buy_count_title" : "Items bought in your group",
+        "delivery_addr_title" : "Delivery Address",
+        "pickup_addr_title" : "Pickup Address",
+        "pickup_code": "Please provide this code {} when you pick your order.",
+        "card_title" : "Payment",
+        "order_status": "Order Status",
+        "tracking_title": "Tracking: ",
+        "tracking_header_title": "Shipment Tracking",
+        "savings" : "Your price went down from {} to {} due to group buying. You saved {}. You will be refunded {}.",
+        "cancel" : "Cancel Order",
+        "cancel_confirmation" : "Sure to cancel your order?",
+        "cancellation_reason1" : "Product is taking too long to be delivered",
+        "cancellation_reason2" : "Product is being delivered to a wrong address(Customer’s mistake)",
+        "cancellation_reason3" : "Product is not required anymore",
+        "cancellation_reason4" : "Discovered the same product on another website or a shop at a lower price",
+        "cancellation_reason5" : "Cheaper alternative available for lesser price",
+        "cancellation_reason6" : "Ordered it for someone else but the other person has it already or bought something else",
+        "cancellation_reason7" : "Bad review from friends/relatives after ordering the product",
+        "cancellation_reason8" : "Something else",
+        "cancellation_reason_missing" : "Choose a cancellation reason.",
+        "cancellation_success" : "Order cancelled successfully",
+        "cancellation_failure" : "Order cannot be cancelled at this time",
+        "cancellation_reason_title" : "We get that you need to cancel your order. Please select a reason for your cancellation."
+    },
+    "sale" : {
+        "expires_title" : "Sale ends: ",
+        "not_sale_day": "Flash Sale happens every Wednesday.{}Please check us out next week.",
+        "share_title" : "Checkout the Flash Sales on Juumu",
+        "title" : "Flash Sale"
+    },
+    "manuf" : {
+        "addr_title" : "Address",
+        "contact_title" : "Contact",
+        "website": "Website",
+        "my_store_title": "Hey, checkout out the store - {}",
+        "no_addr" : "No address information found.",
+        "no_contact" : "No contact information found.",
+        "no_website" : "No website information found.",
+        "seller_since" : "Seller since {}"
+    },
+    "raffles" : {
+        "title" : "Raffles",
+        "expired" : "Expired",
+        "expires" : "Draw In: ",
+        "expires_title" : "Expires ",
+        "join" : "Join Raffles",
+        "winner" : "Winning# ",
+        "user_limit_reached" : "You have already reached the raffle limit of {} per customer.",
+        "success" : "Your raffle# {}. We will notify you once the raffle is drawn",
+        "winner_text" : "Hurray!!!! Your are the winner of this raffle. We will contact you for further instructions",
+        "show_video_request" : "Watch this short video completely to join the raffles?",
+        "raffle_no" : "Raffle# ",
+        "share": "Share this raffle with your friends?",
+        "viewed" : "{} Viewed so far.",
+        "views_needed" : "Views Needed: {}",
+        "sponsored" : "Sponsored: {}",
+        "price": "FREE",
+        "customer_limit": "View Limit/Customer : {}"
+    },
+    "generic" : {
+        "delete" : "Delete"
+    },
+    "favorites" : {
+        "title" : "Favourites",
+        "no_data" : "You haven't tagged any {} as favourites yet."
+    },
+    "build" : {
+        "osVersion": "Version: ",
+        "model": "Model: ",
+        "info": "Build: "
+    },
+    "group_pricing" : {
+        "col1_title": "Group Count",
+        "col2_title": "Price",
+        "col3_title": "Discount",
+        "you" : "Your group"
+    },
+    "shipping" : {
+        "standard" : "Standard",
+        "free" : "Free"
+    },
+    "points_information" : {
+        "info1" : "Earn points by sharing the app or the products. {}You will earn points if one joins Juumu using your shared link. {}On sharing the products with your friends & family, you will earn points if any purchase happens through your shared link. ",
+        "info2" : "Redeem your points on your purchase.",
+        "info3" : "How do I earn points?",
+        "table_header_1": "POINTS",
+        "table_header_2": "ACTION",
+        "row_1_1": "250",
+        "row_1_2": "Create an account",
+        "row_2_1": "400",
+        "row_2_2": "Update your profile",
+        "row_3_1": "400",
+        "row_3_2": "Account creation referral",
+        "row_4_1": "50",
+        "row_4_2": "Daily login",
+        "row_5_2": "Group formation",
+        "info4" : "How do i use my points/earnings?",
+        "info5" : "You can use your points either during the checkout or REDEEM to actual cash which would be transferred to your bank account.",
+        "info6" : "Do my points expire?",
+        "info7" : "No.",
+        "info8" : "How much are point's worth?",
+        "info9" : "400 points = ",
+        "pts_to_currency": "400",
+        "info_10": "How many points do I earn by marketing a product?",
+        "info_11": "The exact points depends on how many products get sold. You would get a percentage of sale as a commission. The commission percentage depends on number of items sold.",
+        "info_12": "How many days do i have to market the product?",
+        "info_13": "You have 7 days to market the product. You would get a commission on all sales that happens on those 7 days.",
+        "payout": "Redeem Cash",
+        "info_14" : "Is there a minimum amount to Redeem cash?",
+        "info_15" : "Yes, the minimum amount to cash is {}",
+        "new_user_reward_info_line1" : "Congratulations!",
+        "new_user_reward_info_line2" : "You have got 10% OFF as a welcome bonus.{}Check it out now.",
+        "register_user_reward_info_line1" : "Welcome Offer!",
+        "register_user_reward_info_line2" : "A special treat for new members!",
+        "register_user_reward_info_line3" : "Register now to get a mystery coupon as a welcome bonus.",
+        "box_1_title" : "Watch Videos",
+        "box_1_sub_title" : "Watch 25 videos each for 7 days",
+        "box_2_title" : "Make a Purchase",
+        "box_2_sub_title" : "Share products to earn",
+        "box_3_title" : "Invite Friends",
+        "box_3_sub_title" : "Get the reward when they sign up",
+        "box_4_title" : "Congratulations",
+        "box_4_sub_title" : "You have successfully logged in",
+        "box_5_title" : "Congratulations",
+        "box_5_sub_title" : "You have successfully signed up",
+        "box_earn_title" : "Earn",
+        "box_earned_title" : "You Earned"
+    },
+    "empty_result" : {
+        "share_buy_listing" : "We couldn't find any products.",
+        "influencer_buy_listing_line2" : "Reach out to brands to start selling products on your show.",
+        "product_review_listing" : "No reviews found for this criteria."
+    },
+    "refund_policy" : {
+        "line1_title": "7 Day Exchange",
+        "line1_subtitle": "All damaged products can be exchanged within 7 days of delivery.",
+        "line2_title": "No Returns & Refunds",
+        "line2_subtitle": "Sorry we don't allow returns & refunds. Please make up your mind before buying the product.",
+        "line3_title": "Quick, Simple Process",
+        "line3_subtitle": "We'll guide you through a few easy steps to exchange your product.",
+        "line4_title": "Customer Support",
+        "line4_subtitle": "Our customer support group is always here if you need help.",
+        "complete_link": "Click here to see the full Return Policy for complete details and restrictions."
+    },
+    "marketing" : {
+        "title" : "Marketing",
+        "no_data" : "You don't have any products to Market yet.",
+        "information" : "1. Each Product you market has an expiration date. {} 2. Market Products by sharing and earn reward points.{}",
+        "myprofile": "Public Profile"
+    },
+    "category_preference": {
+        "title" : "What i love?",
+        "heading1" : "Select the categories you like",
+        "saved_success": "Interest saved successfully.",
+        "header" : "Update Profile"
+    },
+    "myprofile" : {
+        "feeds" : "Roll",
+        "reviews" : "Reviews",
+        "write_review" : "Write Review",
+        "rating" : "Rating",
+        "no_feeds": "No rolls found.",
+        "followers_count": "{} Followers",
+        "following_count": "{} Following",
+        "follow_title": "Follow",
+        "following_title": "Unfollow",
+        "menu_following_title": "Follows",
+        "menu_following_title_1": "Following",
+        "menu_follower_title": "Followers",
+        "who_i_follow_no_data" : "No following found.",
+        "followers_no_data" : "No followers found.",
+        "share" : "Install the app to shop with {}",
+        "upcoming_shows": "Shows",
+        "no_shows": "No shows found.",
+        "view_shop" : "View Shop"
+    },
+    "raffle_video" : {
+        "close": "Close"
+    },
+    "photos" : {
+        "title" : "Photos",
+        "menu" : {
+            "title1" : "Photos",
+            "title2" : "User Photos",
+            "title3" : "Videos"
+        },
+        "no_data" : "No user {} found.",
+        "no_customer_data" : "No Media found",
+        "missing_permission" : "Enable Photo Access in the settings to upload your media",
+        "open_settings" : "Update Settings",
+        "media_add_success" : "Media added successfully.",
+        "video_duration_error" : "Video duration cannot be more than {} seconds.",
+        "customer_title" : "My Photos",
+        "no_media_line2" : "You can help others by posting images/videos of products.",
+        "delete_success": "Media deleted successfully."
+    },
+    "delivery_options" : {
+        "title" : "Delivery Options"
+    },
+    "live_channel" : {
+        "not_available" : "Sorry, this feature isn't available to you yet. Would you like access to hosting your live show?",
+        "waitlist_confirmation" : "Our Sales Team will reach out to you soon.",
+        "subscribed": "Subscribed successfully to the show",
+        "unsubscribed": "Unsubscribed from the show",
+        "info1" : "Become a Content Creator?",
+        "info2" : "This feature isn't available to you yet.",
+        "info3" : "This feature isn't available to you yet.",
+        "info4" : "Few lines about yourself",
+        "info5" : "Content Creator Access Request",
+        "join_waitlist" : "Join Waitlist",
+        "fillout_details" : "Tell us about yourself.",
+        "missing_products" : "Please add Products for the video to become ACTIVE.",
+        "handle" : {
+            "youtube" : "YouTube handle",
+            "instagram" : "Instagram handle",
+            "facebook" : "Facebook handle",
+            "twitter" : "Twitter handle"
+        }
+    },
+    "add_live_channel" : {
+        "button_title" : "Add a Show",
+        "no_offline_video_button" : "Add a Video",
+        "title" : "Add",
+        "view_title" : "Info",
+        "add_products" : "Shared Products",
+        "field" : {
+            "title" : "Title",
+            "date_time_key" : "Start Time ",
+            "date_time_val" : "Select",
+            "end_time_key" : "End Time ",
+            "sec1" : "Information",
+            "sec2" : "Video - {}sec max",
+            "sec3" : "Brand Commission",
+            "sec4" : "Show Metrics",
+            "sec5" : "Thumbnail",
+            "market_products" : "Products"
+        },
+        "add_success" : "New show created.",
+        "update_success" : "Show updated.",
+        "menu1" : "Upcoming",
+        "menu2" : "Manage Live Shows",
+        "menu3" : "My Roll",
+        "no_live_show" : "You haven't created any shows yet.",
+        "no_offline_videos" : "You haven't created any rolls yet.",
+        "no_live_show_today" : "There are no active live shows.",
+        "no_live_show_shop" : "In the meantime, explore our latest product rolls.",
+        "no_live_show_explore": "Explore",
+        "no_live_show_feeds" : "In the meantime checkout our latest product rolls.",
+        "show_ended" : "Live show has already ended",
+        "show_yet_to_begin" : "Live show yet to begin. Do you want to watch the teaser?",
+        "watch_teaser" : "Live show has already ended. Do you want to watch the teaser?",
+        "no_self_subscribe": "You cannot subscribe to yourself.",
+        "join_live_show": "Want to join the Live Show?",
+        "live" : "Live",
+        "add_product" : "To market new products during your live show, share your screen name with the brands so that they can share the products for you to market.",
+        "product" : {
+            "step0" : "Screen Name - {}",
+            "step1": "1. Your brand/seller should enter the above code in their Profile -> Influencer section. They need to enter this code and the marketting commission.",
+            "step2": "2. Your brand/seller should add the above code in the basic information section while creating a new product for you to start selling the products.",
+            "step3" : "Brands should click 'Share' link in their supplier page to share a product with you to market during live show.",
+            "sold" : "Sold",
+            "cancelled" : "Cancelled",
+            "shipped" : "Shipped",
+            "earnings" : "Earnings",
+            "total_viewers_count" : "Total Viewers Count",
+            "total_likes" : "Likes",
+            "total_messages" : "Messages",
+            "commission_payment_status" : "Commission Payment Status: {}"
+        },
+        "no_commission" : "No commission data found.",
+        "show_deleted" : "Show deleted successfully.",
+        "delete_confirmation" : "Sure to delete the show?",
+        "filter" : {
+            "menu1" : "For You",
+            "menu2" : "Following",
+            "title" : "Show Filters"
+        },
+        "add_product_to_show" : "Add",
+        "added_product_to_show" : "Added",
+        "commission_rate" : "{} Commission",
+        "sub_menu" : {
+            "info" : "Info",
+            "metrics" : "Metrics",
+            "product" : "Products",
+            "videos" : "Videos"
+        },
+        "my_shared_products": "My Marketing Products"
+    },
+    "live_show" : {
+        "loading" : "Waiting to join the show",
+        "show_not_started" : "Waiting for the host to start the show",
+        "message" : "Your Message",
+        "end_show_confirmation_broadcaster": "Sure to end the show?",
+        "end_show_confirmation_listeners": "Sure to leave the show?",
+        "start_selling" : "Start Selling",
+        "selling_in_progress" : "Selling",
+        "offline_max_1_product": "You can add only 1 product for the marketing videos.",
+        "comments" : "Your message",
+        "no_comments_1" : "No comments found",
+        "no_comments_2" : "Be the first one to comment",
+        "sure_to_delete" : "Sure to delete the comment?",
+        "deletion_success" : "Comment deleted successfully.",
+        "placeholder_explanation" : "Above video will be showed to the users until the show is live.",
+        "search_filter" : {
+            "title" : "Choose languages you like",
+            "select_title" : "Choose a language"
+        }
+    },
+    "build" : {
+        "title" : "Build {}"
+    },
+    "search_page" : {
+        "top_categories" : "Top Searched Categories",
+        "top_brands" : "Top Searched Brands",
+        "top_influencers" : "Top Searched Content Creators",
+        "menu" : {
+            "title1" : "Products",
+            "title2" : "Brands",
+            "title3" : "Creators"
+        },
+        "search_field" : {
+            "brand_placeholder" : "Search Brands",
+            "influencer_placeholder" : "Search Content Creators",
+            "search_results" : "Search results: {}"
+        },
+        "no_brands" : "No Brands matching your criteria found.",
+        "no_influencers" : "No content creators matching your criteria found.",
+        "search_followers" : "Search your followers",
+        "search_following" : "Search your following"
+    },
+    "home" : {
+        "discover" : "Discover our Store",
+        "store" : "Store",
+        "buyer" : " buyer",
+        "groupbuy_suggestion" : "Additional {} off ({} more pieces)",
+        "free_shipping_over" : "(Free shipping over {})"
+    },
+    "community" : {
+        "add_post_title" : "Post",
+        "title" : "Community",
+        "add_post_description" : "Description",
+        "add_post_description_missing" : "Description missing",
+        "add_post_button_title" : "Add Post",
+        "no_data": "Be the first to post and start discussion with others",
+        "share_title": "Hey checkout this cool post - {}",
+        "first_to_respond_line1" : "No response found",
+        "first_to_respond_line2" : "Be the first to respond",
+        "reply" : "Comment",
+        "reply_title1" : "Reply",
+        "reply_success" : "Response saved successfully",
+        "my_posts" : "My Community",
+        "my_post_no_data": "No posts found",
+        "delete_post" : "Sure to delete the post?",
+        "delete_post_success" : "Post deleted successfully."
+    },
+    "app_region" : {
+        "title": "Country/Region",
+        "au" : "Australia",
+        "in" : "India",
+        "us" : "United States of America",
+        "change_warning" : "Changing the region will reload the app with region specific offers. Sure to proceed?",
+        "screen_title" : "Select your Country",
+        "invalid_region" : "Change your region to {} to access this content."
+    },
+    "koc" : {
+        "earn" : "Earn {} commission on every sale. Share and promote your recent purchased product.",
+        "title1" : "You have bought this lovely product.",
+        "title2" : "Wanna be a Guide to others and earn money as well?",
+        "step1_title1" : "1. Make a Video",
+        "step1_subtitle1" : "Create a Video detailing about the product",
+        "step1_title2" : "2. Earn",
+        "step1_subtitle2" : "Earn money when others make a purchase from your video.",
+        "step1_title3" : "3. Reward - ",
+        "step1_subtitle3" : "You will earn {}% of their order value as a reward for each purchase.",
+        "lets_do_it" : "Add Your Product Video",
+        "missing_screen_name" : "You need to set your screen name before posting videos.",
+        "choose_video" : "Choose Media to create a Product Video ",
+        "add_success" : "Video published successfully. You can view/edit the videos in \"My Roll\" section in Accounts Page",
+        "tap_here" : " or Tap here..."
+    },
+    "contact_brand" : {
+        "title" : "Need Help? Contact brand regarding your order",
+        "heading" : "Contact us"
+    },
+    "permission_info" : {
+        "allow_button" : "Allow",
+        "notification_header" : "Push Notifications Required",
+        "notification_title" : "Some features such as Order status, offers, discount deals will not work. You can always turn it off later.",
+        "media_header" : "Media Access Required",
+        "media_title" : "Some features like profile picture, community post, content creation will not work. You can always turn it off later."
+    },
+    "promotions" : {
+        "title" : "Promotions",
+        "game" : {
+            "rules" : "How to Play!",
+            "better_luck_next_time" : "Product prices doesn't match up. Better luck next time!",
+            "level" : "Level: ",
+            "life_left" : "Chance Left: ",
+            "over" : "Game Over!",
+            "continue" : {
+                "one" : "You have {} more chance to clear as many levels as you can!",
+                "other" : "You have {} more chances to clear as many levels as you can!"
+            },
+            "winner" : "Winner!",
+            "winner_title" : "You have won {}% OFF coupon!",
+            "thanks" : "Thanks for playing. Please come back tomorrow to Win coupons.",
+            "already_played" : "You have already played today. Please come back tomorrow to play again.",
+            "oops" : "OOPS!"
+        },
+        "game1" : {
+            "title1" : "Find the Odd One!",
+            "intro1" : "1. Click on the circle that is different from others",
+            "intro2" : "2. Higher the levels, more the discount!"
+        },
+        "game2" : {
+            "title1" : "Guess the Price!",
+            "intro1" : "1. Use the slider to guess the product price",
+            "intro2" : "2. Win discounts if you can guess the price of atleast one product"
+        },
+        "permission" : "You can play for FREE! but you have to be logged in to earn rewards.",
+        "just_play" : "Just Play",
+        "lock_it" : "Try to guess"
+    },
+    "delete_account" : {
+        "title" : "Delete your Account",
+        "term1" : "1. You're account will be immediately deleted.",
+        "term2" : "2. You won't be able to access any of your data once your account has been deleted.",
+        "confirm" : "YES, Delete My Account"
+    },
+    "points_level" : {
+        "watch_video" : "20% OFF Coupon",
+        "make_purchase" : "Upto 5% Cash back",
+        "invite_friends" : "10% OFF Coupon",
+        "login_success" : "10% OFF Coupon",
+        "congrats" : "2000 Points"
+    }
+}
