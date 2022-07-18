@@ -12,7 +12,8 @@
             "shared_title_line1": "Register now to get 10% off.",
             "invite_now" : "Invite Now"
         },
-        "not_supported" : "Please download the app to enjoy the full features."
+        "not_supported" : "Please download the app to enjoy the full features.",
+        "download_app" : "Download the app to receive a mystery gift."
     },
     "download" : {
         "title" : "Download",
