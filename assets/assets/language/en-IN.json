@@ -14,6 +14,11 @@
         },
         "not_supported" : "Please download the app to enjoy the full features."
     },
+    "download" : {
+        "title" : "Download",
+        "ios" : "IOS",
+        "android" : "Android"
+    },
     "storyboard" : {
         "screen1" : {
             "title" : "Live Shopping",
